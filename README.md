@@ -1,0 +1,2 @@
+# quezzy
+Making scripts
